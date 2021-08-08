@@ -1,0 +1,9 @@
+TweetするURLを返す。	${VERSION}
+
+${THIS_NAME} [-u URL] [-t TAG,TAG,...] TEXT
+
+Examples:
+  ${THIS_NAME} -u https://github.com/ytyaru -t twitter,github '日本語\\n\\n複数行'
+
+Document: https://developer.twitter.com/en/docs/twitter-for-websites/tweet-button/overview
+
